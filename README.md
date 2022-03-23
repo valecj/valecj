@@ -1,4 +1,4 @@
-### Hi there 👋
+<img width="30%" src="https://66.media.tumblr.com/cfe316afb5b4902f39ee4b7d9b28e824/tumblr_mnaldlebvk1rfjowdo1_500.gif" />
 
 <!--
 **valecj/valecj** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
